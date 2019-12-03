@@ -2,4 +2,8 @@ hallo saya belajar git !
 bersama kak roby
 dan teman teman
 Apaan si
+<<<<<<< HEAD
 Kenapa emang ?
+=======
+Ehh bentar, Lu siapa dah ?
+>>>>>>> d4e9c9e1aa97b6fe823dc28c6ecd3f99bada3f78
